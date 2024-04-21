@@ -1,7 +1,15 @@
 {
   "name": "web-online-game",
-  "version": "0.1.0",
-  "private": true,
+  "description": "Intermediary - React Web Application, Online Fighting Game",
+  "version": "1.0.0",
+  "private": false,
+  "author": {
+    "name": "ryandvl"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/ryandvl/web-online-game"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
